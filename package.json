@@ -1,0 +1,12 @@
+{
+  "name": "searchtwitter",
+  "version": "0.1.0",
+  "description": "Get the tweets from teh twitterz.",
+  "repository": "",
+  "keywords": [
+    "twitter",
+    "search"
+  ],
+  "author": "Jonathan Creamer",
+  "license": "MIT"
+}
